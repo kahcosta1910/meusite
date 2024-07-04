@@ -1,0 +1,50 @@
+body{
+    background-color: blanchedalmond;    
+}
+
+h1{ 
+    font-family:'Monotype Corsiva';
+    color: green;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-family: arial;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 18px;
+    
+}
+
+.imagemZelda{
+    width: 600px;
+    padding-left: 120px;
+}
+
+.geral{
+    width: 900px;
+    margin: auto;
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+header{
+    background-color: #5fec34;
+    padding: 5px;
+}
+
+/*Inicio add*/
+nav{
+    background-color:#5fec34;
+    padding: 5px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+a:link{
+    color: #ffffff;
+}
+a:visited{
+    color:green;
+}
+/*Fim add*/
